@@ -8,6 +8,7 @@ In recent years, significant breakthroughs have been made in artificial intellig
 Invited Talks
 
 Talk 1. Research Progress on Multimodal Summarization
+
 Slides Link: Speaker-JiajunZhang.pdf
 
 Abstract: 
@@ -17,6 +18,7 @@ Speaker:
 Dr. Jiajun Zhang is research professor at Institute of Automation, Chinese Academy of Sciences. His research interests include machine translation and multi¬lingual natural language processing. 
 
 Talk 2. Multimodal Pre¬training
+
 Slides Link: Speaker-NanDuan.pdf
 
 Abstract: 
@@ -35,6 +37,7 @@ Speaker:
 Dr. Feng Gao is now a post¬doctoral research fellow at the Future Laboratory, Tsinghua University. His research interesting is to work on the intersection of computer science and Art, including but not limit on artificial intelligence and painting art, deep learning and painting robot, etc.
 
 Talk 4. Multimodal intelligent analysis
+
 Slides Link: Speaker-SiLiu.pdf
 
 Abstract: 
@@ -44,6 +47,7 @@ Speaker:
 Si Liu is an associate professor of Institute of Artificial Intelligence, Beihang University. Her research direction is cross-¬modal multimedia intelligent analysis, including natural language processing (NLP) and computer vision (CV). 
 
 Talk 5. Multimodal Dialogue Systems in Ping An Life
+
 Slides Link: Speaker- HaiqinYang.pdf 
 
 Abstract:
