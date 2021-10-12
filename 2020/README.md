@@ -9,7 +9,7 @@ Invited Talks
 
 Talk 1. Research Progress on Multimodal Summarization
 
-Slides Link: Speaker-JiajunZhang.pdf
+Slides Link: https://github.com/jd-aig/mmnlp/blob/main/2020/Speaker-JiajunZhang.pdf
 
 Abstract: 
 Multimodality has become the main characteristics of news report and information exchange on the Internet. Multimodal automatic summarization aims to realize the process of automatically compressing and generating abstracts from multimodal information (such as text, audio, image and video) by using computer algorithms. It can be widely used in many fields such as news recommendation and e¬commerce service. This report will introduce the research progress of the methods and evaluation for multimodal summarization in recent years.
@@ -19,7 +19,7 @@ Dr. Jiajun Zhang is research professor at Institute of Automation, Chinese Acade
 
 Talk 2. Multimodal Pre¬training
 
-Slides Link: Speaker-NanDuan.pdf
+Slides Link: https://github.com/jd-aig/mmnlp/blob/main/2020/Speaker-NanDuan.pdf
 
 Abstract: 
 In this talk, I will first review typical pre¬training models, and then introduce 3 latest multimodal pre¬trained models, including M3P for image ¬language tasks, Unicoder¬VL for video ¬language tasks and CodeBERT for code ¬language tasks. Last, I will discuss current issues and possible future directions.
@@ -38,7 +38,7 @@ Dr. Feng Gao is now a post¬doctoral research fellow at the Future Laboratory, T
 
 Talk 4. Multimodal intelligent analysis
 
-Slides Link: Speaker-SiLiu.pdf
+Slides Link: https://github.com/jd-aig/mmnlp/blob/main/2020/Speaker-SiLiu.pdf
 
 Abstract: 
 Multimodal intelligent analysis is a hot topic in recent years. I will focus on the interaction of vision and language. First, I will talk about visual relationship detection, including human object interaction detection, human object relation segmentation and video relation detection. Then I will introduce referring expression and referring segmentation, which is important to intelligent robot and interactive image editing. Traditional referring expression methods mainly adopt two-¬stage architectures. The models are complex thus the inference speeds are low. In addition, the traditional referring segmentation methods focus on multimodal feature fusion and lack the ability of context modeling and reasoning with linguistic information. In this talk, I will introduce our recent solutions to the above problems.
@@ -48,7 +48,7 @@ Si Liu is an associate professor of Institute of Artificial Intelligence, Beihan
 
 Talk 5. Multimodal Dialogue Systems in Ping An Life
 
-Slides Link: Speaker- HaiqinYang.pdf 
+Slides Link: https://github.com/jd-aig/mmnlp/blob/main/2020/Speaker-HaiqinYang.pdf
 
 Abstract:
 Dialogue systems have been applied in various scenarios of Ping An Life to help agents selling insurance products and to engage customers in various services. In this talk, we will focus on our multimodal dialogue systems and share how they can be applied to reduce the operation cost while increasing users’ experience. We will outline the whole system architecture, share the core and newly proposed techniques and the real¬ world deployment. Some critical research problems will be discussed and presented.
